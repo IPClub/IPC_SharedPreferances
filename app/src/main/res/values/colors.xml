@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5a097c</color>
+    <color name="colorPrimaryDark">#090087</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="green">#03d629</color>
+    <color name="red">#e92222</color>
+
+    <color name="ankap">#8b83a4</color>
+
+</resources>

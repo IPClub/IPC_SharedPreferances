@@ -1,0 +1,20 @@
+<resources>
+    <string name="valodik">Lesosn1</string>
+
+    <string name="registration">Регистрация</string>
+    <string name="register">Регистрация</string>
+    <string name="login">Войти</string>
+    <string name="password">пароль</string>
+    <string name="age">Возраст</string>
+    <string name="remember">Запомнить</string>
+    <string name="logout">Выйти</string>
+    <string name="language">язык</string>
+    <string name="english">английский</string>
+    <string name="russian">русский</string>
+    <string name="armenian">армянский</string>
+    <string name="save">Сохранить</string>
+    <string name="settings">настройки</string>
+    <string name="error">Неправильный логин или пароль</string>
+
+
+</resources>
